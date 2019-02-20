@@ -7,4 +7,3 @@ Arduino SPI emulation library for ATtiny:
     % mkdir libraries
     % cd libraries
     % git clone https://github.com/jscrane/SPI.git
->>>>>>> SPI/master
