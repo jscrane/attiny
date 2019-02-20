@@ -117,4 +117,4 @@ t85db.bootloader.speed=19200
 t85db.bootloader.low_fuses=0xe2
 t85db.bootloader.high_fuses=0xdf
 t85db.bootloader.extended_fuses=0xfe
-t85db.bootloader.file=tsb/tsb_tn85_b1b0_20150308.hex
+t85db.bootloader.file=tsb/tsb_tn85_b4b3_20150308.hex
